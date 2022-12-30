@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- Microsoft portal
+- Health Bot
 
 ## Features and Functionalities 😃
 
@@ -62,3 +62,4 @@ reenshot (22).png…]()
 - CSS
 - Bootstrap
 - JavaScript
+- Health Bot
