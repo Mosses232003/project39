@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://kind-meadow-05b17e200.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** -https://youtu.be/IuPi2f0nV-0 
 
 ## Azure technologies used for Project
 
